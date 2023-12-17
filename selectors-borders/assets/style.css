@@ -1,0 +1,106 @@
+body {
+    background-color: rgba(7, 102, 97, 0.904);
+    height: 100%;
+    width: 100px;
+}
+
+.header {
+    height: 29vh;
+    width: 900%;
+    margin-left: 270px;
+    border: 1px solid white;
+    background-image: url("https://media.giphy.com/media/7MNJFsrDCJUQa05VAR/giphy.gif/9tA6H1madRvUc/giphy.gif");
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+.navbar {
+    height: 3vh;
+    width: 860%;
+    margin-left: 270px;
+    padding: 20px;
+}
+
+.navbar  a {
+    
+    margin: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-decoration: none;
+    opacity: 0.9;
+}
+.navbar ul{
+    background-color: rgba(12, 85, 81, 0.904);
+    padding: 10px;
+    margin:5px;
+    height: 20px;
+    width: 100%;
+   
+}
+.nav {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 300px;
+    opacity: 0.9;
+    display: flex;
+}
+
+.menu {
+   height: 20px;
+   width: 200px;
+
+}
+
+.menu a {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    opacity: 0.6;
+}
+.header-right {
+    width: 100%;
+    margin-left: 100px;
+}
+.text{
+    height: 10px;
+    width: 500px;
+   
+}
+.text p{
+    opacity: 0.6;
+}
+.header-down {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flex;
+  margin-left: 180px;
+}
+.header-down h2{
+    height: 0px;
+    width: 100px;
+    opacity: 0.9;
+    margin: 110px;
+}
+.left-text{
+    width: 300px;
+    margin-left: 100px;
+    opacity: 0.6;
+
+}
+.center-text{
+    width: 300px;
+    margin-left: 100px;
+    opacity: 0.6;
+
+}
+.right-text{
+    width: 300px;
+    margin-left: 100px;
+    opacity: 0.6;
+
+}
